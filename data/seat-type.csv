@@ -1,0 +1,223 @@
+seat_code_no,seat,voters,state,seat_type
+1,Padang Besar,"42,338",Perlis,Rural
+2,Kangar,"50,909",Perlis,Semi-urban
+3,Arau,"44,094",Perlis,Rural
+4,Langkawi,"37,632",Kedah,Rural
+5,Jerlun,"51,681",Kedah,Rural
+6,Kubang Pasu,"66,141",Kedah,Semi-urban
+7,Padang Terap,"43,022",Kedah,Rural
+8,Pokok Sena,"80,502",Kedah,Rural
+9,Alor Star,"68,742",Kedah,Urban
+10,Kuala Kedah,"95,137",Kedah,Rural
+11,Pendang,"70,820",Kedah,Rural
+12,Jerai,"74,176",Kedah,Rural
+13,Sik,"47,047",Kedah,Rural
+14,Merbok,"86,926",Kedah,Semi-urban
+15,Sungai Petani,"93,946",Kedah,Semi-urban
+16,Baling,"95,349",Kedah,Rural
+17,Padang Serai,"74,776",Kedah,Semi-urban
+18,Kulim-Bandar Baharu,"60,481",Kedah,Semi-urban
+19,Tumpat,"102,372",Kelantan,Rural
+20,Pengkalan Chepa,"66,834",Kelantan,Semi-urban
+21,Kota Bharu,"82,582",Kelantan,Urban
+22,Pasir Mas,"73,098",Kelantan,Rural
+23,Rantau Panjang,"54,262",Kelantan,Rural
+24,Kubang Kerian,"66,991",Kelantan,Rural
+25,Bachok,"83,206",Kelantan,Semi-urban
+26,Ketereh,"64,426",Kelantan,Rural
+27,Tanah Merah,"61,010",Kelantan,Rural
+28,Pasir Puteh,"78,747",Kelantan,Rural
+29,Machang,"61,323",Kelantan,Rural
+30,Jeli,"44,564",Kelantan,Rural
+31,Kuala Krai,"65,289",Kelantan,Rural
+32,Gua Musang,"42,323",Kelantan,Rural
+33,Besut,"77,266",Terengganu,Semi-urban
+34,Setiu,"71,292",Terengganu,Rural
+35,Kuala Nerus,"82,497",Terengganu,Rural
+36,Kuala Terengganu,"96,965",Terengganu,Urban
+37,Marang,"96,708",Terengganu,Rural
+38,Hulu Terengganu,"68,650",Terengganu,Rural
+39,Dungun,"83,283",Terengganu,Semi-urban
+40,Kemaman,"99,432",Terengganu,Semi-urban
+41,Kepala Batas,"53,723",Pulau Pinang,Rural
+42,Tasek Gelugor,"55,282",Pulau Pinang,Rural
+43,Bagan,"69,371",Pulau Pinang,Urban
+44,Permatang Pauh,"74,545",Pulau Pinang,Semi-urban
+45,Bukit Mertajam,"81,294",Pulau Pinang,Semi-urban
+46,Batu Kawan,"59,322",Pulau Pinang,Semi-urban
+47,Nibong Tebal,"62,162",Pulau Pinang,Rural
+48,Bukit Bendera,"71,772",Pulau Pinang,Semi-urban
+49,Tanjong,"50,136",Pulau Pinang,Urban
+50,Jelutong,"72,837",Pulau Pinang,Urban
+51,Bukit Gelugor,"85,053",Pulau Pinang,Semi-urban
+52,Bayan Baru,"83,594",Pulau Pinang,Semi-urban
+53,Balik Pulau,"52,337",Pulau Pinang,Rural
+54,Gerik,"33,982",Perak,Rural
+55,Lenggong,"28,148",Perak,Rural
+56,Larut,"46,242",Perak,Rural
+57,Parit Buntar,"50,020",Perak,Rural
+58,Bagan Serai,"54,719",Perak,Rural
+59,Bukit Gantang,"72,317",Perak,Rural
+60,Taiping,"77,376",Perak,Urban
+61,Padang Rengas,"28,830",Perak,Rural
+62,Sungai Siput,"51,607",Perak,Semi-urban
+63,Tambun,"92,356",Perak,Semi-urban
+64,Ipoh Timor,"80,280",Perak,Urban
+65,Ipoh Barat,"78,043",Perak,Urban
+66,Batu Gajah,"83,883",Perak,Urban
+67,Kuala Kangsar,"33,066",Perak,Semi-urban
+68,Beruas,"48,435",Perak,Rural
+69,Parit,"33,485",Perak,Rural
+70,Kampar,"63,419",Perak,Semi-urban
+71,Gopeng,"101,225",Perak,Semi-urban
+72,Tapah,"46,233",Perak,Rural
+73,Pasir Salak,"51,243",Perak,Rural
+74,Lumut,"90,308",Perak,Semi-urban
+75,Bagan Datok,"39,426",Perak,Rural
+76,Telok Intan,"61,086",Perak,Semi-urban
+77,Tanjong Malim,"63,990",Perak,Rural
+78,Cameron Highlands,"27,941",Pahang,Rural
+79,Lipis,"32,222",Pahang,Rural
+80,Raub,"53,748",Pahang,Rural
+81,Jerantut,"57,713",Pahang,Rural
+82,Indera Mahkota,"66,813",Pahang,Semi-urban
+83,Kuantan,"56,145",Pahang,Urban
+84,Paya Besar,"49,176",Pahang,Rural
+85,Pekan,"82,303",Pahang,Rural
+86,Maran,"37,931",Pahang,Rural
+87,Kuala Krau,"43,026",Pahang,Rural
+88,Temerloh,"66,986",Pahang,Semi-urban
+89,Bentong,"62,460",Pahang,Rural
+90,Bera,"51,293",Pahang,Rural
+91,Rompin,"54,973",Pahang,Rural
+92,Sabak Bernam,"37,293",Selangor,Rural
+93,Sungai Besar,"42,828",Selangor,Rural
+94,Hulu Selangor,"86,966",Selangor,Semi-urban
+95,Tanjong Karang,"42,620",Selangor,Rural
+96,Kuala Selangor,"63,920",Selangor,Rural
+97,Selayang,"108,276",Selangor,Semi-urban
+98,Gombak,"124,823",Selangor,Semi-urban
+99,Ampang,"83,200",Selangor,Semi-urban
+100,Pandan,"85,090",Selangor,Urban
+101,Hulu Langat,"129,527",Selangor,Semi-urban
+102,Serdang,"139,604",Selangor,Urban
+103,Puchong,"110,187",Selangor,Urban
+104,Kelana Jaya,"101,590",Selangor,Urban
+105,Petaling Jaya Selatan,"78,373",Selangor,Urban
+106,Petaling Jaya Utara,"84,284",Selangor,Urban
+107,Subang,"130,211",Selangor,Urban
+108,Shah Alam,"104,289",Selangor,Urban
+109,Kapar,"146,625",Selangor,Urban
+110,Klang,"98,263",Selangor,Urban
+111,Kota Raja,"110,526",Selangor,Urban
+112,Kuala Langat,"89,077",Selangor,Semi-urban
+113,Sepang,"85,853",Selangor,Semi-urban
+114,Kepong,"67,956",Kuala Lumpur,Urban
+115,Batu,"85,092",Kuala Lumpur,Urban
+116,Wangsa Maju,"67,188",Kuala Lumpur,Urban
+117,Segambut,"75,440",Kuala Lumpur,Urban
+118,Setiawangsa,"62,812",Kuala Lumpur,Urban
+119,Titiwangsa,"55,899",Kuala Lumpur,Urban
+120,Bukit Bintang,"52,753",Kuala Lumpur,Urban
+121,Lembah Pantai,"72,675",Kuala Lumpur,Urban
+122,Seputeh,"85,172",Kuala Lumpur,Urban
+123,Cheras,"71,272",Kuala Lumpur,Urban
+124,Bandar Tun Razak,"91,379",Kuala Lumpur,Urban
+125,Putrajaya,"17,925",Putrajaya,Urban
+126,Jelebu,"45,797",Negeri Sembilan,Rural
+127,Jempol,"66,386",Negeri Sembilan,Rural
+128,Seremban,"103,795",Negeri Sembilan,Urban
+129,Kuala Pilah,"46,759",Negeri Sembilan,Semi-urban
+130,Rasah,"89,496",Negeri Sembilan,Urban
+131,Rembau,"79,154",Negeri Sembilan,Semi-urban
+132,Telok Kemang,"69,338",Negeri Sembilan,Semi-urban
+133,Tampin,"56,880",Negeri Sembilan,Rural
+134,Masjid Tanah,"48,124",Melaka,Rural
+135,Alor Gajah,"65,956",Melaka,Rural
+136,Tangga Batu,"78,264",Melaka,Semi-urban
+137,Bukit Katil,"105,163",Melaka,Urban
+138,Kota Melaka,"94,066",Melaka,Urban
+139,Jasin,"68,004",Melaka,Rural
+140,Segamat,"48,718",Johor,Rural
+141,Sekijang,"41,938",Johor,Rural
+142,Labis,"37,448",Johor,Rural
+143,Pagoh,"46,968",Johor,Rural
+144,Ledang,"70,678",Johor,Rural
+145,Bakri,"68,838",Johor,Semi-urban
+146,Muar,"48,491",Johor,Rural
+147,Parit Sulong,"56,808",Johor,Rural
+148,Ayer Hitam,"43,398",Johor,Rural
+149,Sri Gading,"46,442",Johor,Rural
+150,Batu Pahat,"90,401",Johor,Semi-urban
+151,Simpang Renggam,"40,588",Johor,Rural
+152,Kluang,"89,470",Johor,Semi-urban
+153,Sembrong,"41,677",Johor,Rural
+154,Mersing,"45,411",Johor,Rural
+155,Tenggara,"40,849",Johor,Rural
+156,Kota Tinggi,"42,962",Johor,Rural
+157,Pengerang,"38,281",Johor,Rural
+158,Tebrau,"101,916",Johor,Semi-urban
+159,Pasir Gudang,"108,896",Johor,Semi-urban
+160,Johor Bahru,"96,923",Johor,Urban
+161,Pulai,"104,761",Johor,Urban
+162,Gelang Patah,"115,227",Johor,Semi-urban
+163,Kulai,"87,218",Johor,Semi-urban
+164,Pontian,"48,799",Johor,Rural
+165,Tanjong Piai,"53,991",Johor,Rural
+166,Labuan,"25,087",Labuan,Semi-urban
+167,Kudat,"47,444",Sabah,Rural
+168,Kota Marudu,"42,553",Sabah,Rural
+169,Kota Belud,"51,851",Sabah,Rural
+170,Tuaran,"49,140",Sabah,Semi-urban
+171,Sepanggar,"55,518",Sabah,Semi-urban
+172,Kota Kinabalu,"49,826",Sabah,Urban
+173,Putatan,"38,284",Sabah,Semi-urban
+174,Penampang,"45,179",Sabah,Rural
+175,Papar,"39,199",Sabah,Rural
+176,Kimanis,"26,958",Sabah,Rural
+177,Beaufort,"30,218",Sabah,Rural
+178,Sipitang,"29,470",Sabah,Rural
+179,Ranau,"39,485",Sabah,Rural
+180,Keningau,"44,284",Sabah,Rural
+181,Tenom,"25,340",Sabah,Rural
+182,Pensiangan,"27,058",Sabah,Rural
+183,Beluran,"24,938",Sabah,Rural
+184,Libaran,"41,963",Sabah,Rural
+185,Batu Sapi,"30,389",Sabah,Rural
+186,Sandakan,"37,778",Sabah,Semi-urban
+187,Kinabatangan,"25,315",Sabah,Rural
+188,Silam,"52,438",Sabah,Rural
+189,Semporna,"42,570",Sabah,Rural
+190,Tawau,"55,232",Sabah,Semi-urban
+191,Kalabakan,"46,195",Sabah,Rural
+192,Mas Gading,"26,926",Sarawak,Rural
+193,Santubong,"42,342",Sarawak,Rural
+194,Petra Jaya,"53,607",Sarawak,Rural
+195,Bandar Kuching,"81,037",Sarawak,Urban
+196,Stampin,"60,624",Sarawak,Urban
+197,Kota Samarahan,"42,357",Sarawak,Rural
+198,Mambong,"43,243",Sarawak,Rural
+199,Serian,"35,422",Sarawak,Rural
+200,Batang Sadong,"21,693",Sarawak,Rural
+201,Batang Lupar,"28,642",Sarawak,Rural
+202,Sri Aman,"31,147",Sarawak,Rural
+203,Lubok Antu,"20,362",Sarawak,Rural
+204,Betong,"28,072",Sarawak,Rural
+205,Saratok,"28,843",Sarawak,Rural
+206,Tanjong Manis,"20,190",Sarawak,Rural
+207,Igan,"18,334",Sarawak,Rural
+208,Sarikei,"37,454",Sarawak,Semi-urban
+209,Julau,"23,577",Sarawak,Rural
+210,Kanowit,"20,052",Sarawak,Rural
+211,Lanang,"57,708",Sarawak,Rural
+212,Sibu,"69,822",Sarawak,Semi-urban
+213,Mukah,"28,714",Sarawak,Rural
+214,Selangau,"28,271",Sarawak,Rural
+215,Kapit,"28,719",Sarawak,Rural
+216,Hulu Rajang,"25,316",Sarawak,Rural
+217,Bintulu,"60,056",Sarawak,Semi-urban
+218,Sibuti,"29,974",Sarawak,Rural
+219,Miri,"75,527",Sarawak,Semi-urban
+220,Baram,"34,096",Sarawak,Rural
+221,Limbang,"25,199",Sarawak,Rural
+222,Lawas,"19,896",Sarawak,Rural
