@@ -1,1 +1,1 @@
-![]('gifs/ge-malaysia.gif')
+![](gifs/ge-malaysia.gif)
